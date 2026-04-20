@@ -149,6 +149,7 @@ winget install Google.GoogleDrive
 winget install Microsoft.PowerShell
 winget install qBittorrent.qBittorrent
 winget install NordSecurity.NordVPN
+winget install Anthropic.Claude
 ```
 
 ### Git Configuration
