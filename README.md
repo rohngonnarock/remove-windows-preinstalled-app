@@ -101,6 +101,17 @@ winget install --id 9PCFS5B6T72H -e --source msstore
 winget install --id 9NKSQGP7F2NH -e --source msstore
 winget install Docker.DockerDesktop
 winget install Microsoft.VisualStudioCode
+winget install Inkscape.Inkscape
+winget install Google.Chrome
+winget install 7zip.7zip
+winget install VideoLAN.VLC
+winget install Google.GoogleDrive
+
+
+
+
+git config --global user.email "rohngonnarock@gmail.com"
+git config --global user.name "Rahul Prajapati"
 ```
 
 
