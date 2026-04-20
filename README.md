@@ -97,11 +97,8 @@ Get-AppxPackage -allusers Microsoft.MicrosoftStickyNotes | Foreach {Add-AppxPack
 # To Do
 Get-AppxPackage -allusers Microsoft.Todos | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
-winget install Microsoft.Notepad
-winget install Microsoft.Paint
-winget install WhatsApp.WhatsApp
-winget install Git.Git
-winget install Python.Python.3.12
+winget install --id 9PCFS5B6T72H -e --source msstore
+winget install --id 9NKSQGP7F2NH -e --source msstore
 winget install Docker.DockerDesktop
 winget install Microsoft.VisualStudioCode
 ```
