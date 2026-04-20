@@ -106,6 +106,9 @@ winget install Google.Chrome
 winget install 7zip.7zip
 winget install VideoLAN.VLC
 winget install Google.GoogleDrive
+winget install Microsoft.PowerShell
+winget install qBittorrent.qBittorrent
+winget install NordSecurity.NordVPN
 
 
 
