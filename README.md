@@ -150,6 +150,7 @@ winget install Microsoft.PowerShell
 winget install qBittorrent.qBittorrent
 winget install NordSecurity.NordVPN
 winget install Anthropic.Claude
+winget install Adobe.Acrobat.Reader.64-bit
 ```
 
 ### Git Configuration
